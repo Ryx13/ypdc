@@ -1,6 +1,6 @@
-# Run and deploy your AI Studio app
+# YPDC Website
 
-This contains everything you need to run your app locally.
+This is the official website for **YPDC (Your Professional Development & Consulting)**, a taxation and financial consulting company. The site presents the company's services, team, and contact information in a professional and accessible way.
 
 ## Run Locally
 
